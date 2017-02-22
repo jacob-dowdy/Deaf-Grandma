@@ -1,6 +1,6 @@
 puts 'Glad you took the time to come to see your dear old granny? How are you?'
 bye = 0
-while bye < 3
+while bye < 2
   answer = gets.chomp
   puts 'HUH?! SPEAK UP, SONNY!'
   answer = gets.chomp
